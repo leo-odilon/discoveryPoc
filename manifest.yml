@@ -1,0 +1,4 @@
+apps:
+- name: discoveryPoc
+  random-route: true
+  memory: 128M

@@ -4,7 +4,7 @@ const { IamAuthenticator } = require('ibm-watson/auth');
 const version = '2020-08-30'
 const instance = '0a8d8690-6344-4708-a199-f5c63eb1f7af'
 const url = 'https://api.us-south.discovery.watson.cloud.ibm.com/instances/'
-const apikey = 'Ebjm67ZRtu40zaiIOFz8tDobNrvDCvgxm-T3DvoayeR9'
+const apikey = '-'
 
 exports.get = (req, res, next) => {
 
